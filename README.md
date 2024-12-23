@@ -1,37 +1,37 @@
-# Hi there, I'm official4jelas! 👋
+# Halo, saya official4jelas! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in [your interests, e.g., web development, data science, open source contributions, etc.]. 
+Selamat datang di profil GitHub saya! Saya adalah seorang pengembang yang bersemangat dengan minat khusus dalam [minat Anda, misalnya, pengembangan web, data science, kontribusi open source, dll.].
 
-## 🌱 What I'm Currently Working On
-- [Project 1]: Brief description of your project.
-- [Project 2]: Brief description of your project.
+## 🌱 Yang Sedang Saya Kerjakan
+- [Proyek 1]: Deskripsi singkat tentang proyek Anda.
+- [Proyek 2]: Deskripsi singkat tentang proyek Anda.
 
-## 🔭 Projects I've Contributed To
-- [Project 1]: Brief description of your contribution.
-- [Project 2]: Brief description of your contribution.
+## 🔭 Proyek yang Saya Kontribusi
+- [Proyek 1]: Deskripsi singkat tentang kontribusi Anda.
+- [Proyek 2]: Deskripsi singkat tentang kontribusi Anda.
 
-## 💬 Ask Me About
-- [Topic 1]
-- [Topic 2]
-- [Topic 3]
+## 💬 Tanya Saya Tentang
+- [Topik 1]
+- [Topik 2]
+- [Topik 3]
 
-## 📫 How to Reach Me
-- Email: [your email]
-- LinkedIn: [your LinkedIn profile]
-- Twitter: [your Twitter handle]
+## 📫 Cara Menghubungi Saya
+- Email: [email Anda]
+- LinkedIn: [profil LinkedIn Anda]
+- Twitter: [akun Twitter Anda]
 
-## ⚡ Fun Fact
-- [Share a fun fact about yourself!]
+## ⚡ Fakta Menarik
+- [Bagikan fakta menarik tentang diri Anda!]
 
-## 📈 GitHub Stats
-![official4jelas's GitHub stats](https://github-readme-stats.vercel.app/api?username=official4jelas&show_icons=true&theme=radical)
+## 📈 Statistik GitHub
+![Statistik GitHub official4jelas](https://github-readme-stats.vercel.app/api?username=official4jelas&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=official4jelas&theme=radical)
+## 🏆 Trofi GitHub
+![Trofi GitHub](https://github-profile-trophy.vercel.app/?username=official4jelas&theme=radical)
 
-## 🔗 Links
-- [Personal Website/Blog]
-- [Portfolio]
-- [Any other relevant links]
+## 🔗 Tautan
+- [Situs Pribadi/Blog]
+- [Portofolio]
+- [Tautan relevan lainnya]
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on a project or just chat about tech!
+Terima kasih telah mengunjungi profil saya! Jangan ragu untuk melihat repositori saya dan hubungi saya jika Anda ingin berkolaborasi dalam proyek atau hanya berbicara tentang teknologi!
