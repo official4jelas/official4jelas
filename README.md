@@ -3,7 +3,7 @@
 Selamat datang di profil GitHub saya! Saya adalah seorang pengembang yang bersemangat dengan minat khusus dalam [minat Anda, misalnya, pengembangan web, data science, kontribusi open source, dll.].
 
 ## 🌱 Yang Sedang Saya Kerjakan
-- [https://github.com/official4jelas/botzz]: Deskripsi singkat tentang proyek Anda.
+- https://github.com/official4jelas/botzz: Deskripsi singkat tentang proyek Anda.
 - [Proyek 2]: Deskripsi singkat tentang proyek Anda.
 
 ## 🔭 Proyek yang Saya Kontribusi
